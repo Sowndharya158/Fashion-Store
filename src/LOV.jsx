@@ -1,0 +1,3 @@
+const Productitems=[{Name:"Striped Drawstring Waist Sleeveless Dress",price:120,brand:"SHEIN USA",image:"dress1.jpg",productid:1},{Name:"Cozy White Dress",price:150,brand:"SHEIN USA",image:"dress2.jpg",productid:2},{Name:"Women Teal Dobby Tiered Midi Dress",price:180,brand:"Princess Polly",image:"dress3.jpg",productid:3},{Name:"Silk Long Gown Dress",price:120,brand:"Anaya",image:"dress4.jpg",productid:4},{Name:"Raglan Sleeve Belted Cable Knit Sweater Dress",price:300,brand:"TLULY",image:"dress5.jpg",productid:5},{Name:"Opulent Opal: Embroidered Ball Gown",price:190,brand:"Anaya",image:"dress6.jpg",productid:6}];
+
+export default Productitems;
